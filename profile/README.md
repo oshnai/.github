@@ -1,6 +1,6 @@
 # OshnAI
 
-**OshnAI** is a cutting-edge technology company specializing in artificial intelligence and financial services solutions. Our mission is to leverage advanced AI technologies to provide innovative solutions for algorithmic trading, data analytics, and more.
+**OshnAI** is a cutting-edge technology company specializing in artificial intelligence and financial services solutions. Our mission is to leverage advanced AI technologies to provide innovative solutions for algorithmic trading, financial research and data analytics, and more.
 
 ## About Us
 
