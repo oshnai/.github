@@ -5,7 +5,7 @@
                              |                      |                                |
                     Product Development     Operations & Compliance    Trading Strategies Development
                       (Tech Team)            (Compliance, Legal,            (Head of Trading)
-                                             Finance, HR)                          |
+                           |                 Finance, HR)                          |
                            |                        |                 -------------------------
               --------------------------  ----------------------         |                |
                    |             |        Finance Officer  Legal     Trading            Quant
